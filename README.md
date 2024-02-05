@@ -27,7 +27,10 @@ URLbae CLI Tool is an advanced command-line application for managing URLs, files
 
 # Install required packages
 ```pip install -r requirements.txt```
-
+# Update Api Key
+- First Login to Urlbae by going [here](https://urlbae.com/) and then visit [here](https://urlbae.com/developers) to get your api key.
+- Once you have your API Key add it to ```config.py``` like [this](https://github.com/lewispour/UrlBae-Cli/blob/main/config.py#L1)
+  
 ## Usage
 ## Default Usage Without Parameters
 
