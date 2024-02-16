@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/license/lewispour/urlbae-cli" />
-  <img src="https://img.shields.io/badge/python-3.8+-blue.svg" />
+  <img src="https://img.shields.io/badge/python-3.7+-blue.svg" />
   <img src="https://img.shields.io/badge/Tabulate-0.9.0+-blue.svg" />
 
 
